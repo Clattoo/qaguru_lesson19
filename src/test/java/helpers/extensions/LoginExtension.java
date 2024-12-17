@@ -1,6 +1,5 @@
 package helpers.extensions;
 
-
 import api.AccountApi;
 import data.AuthData;
 import models.LoginResponseModel;
